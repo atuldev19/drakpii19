@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css?family=Gugi&display=swap" rel="stylesheet');
-.avatarstyle {
-	font-family: 'Gugi', cursive;
+@import url('https://fonts.googleapis.com/css?family=Gugi');
+.mainpage{width: 90%; height: 100vh;margin: auto; font-family: 'Gugi', cursive;
 }
+.mainpage h1{margin: 0;padding: 20px 0;text-align: center;}
 .avatarstyle img{
-	width: 200px;height: 200px;
+	width: 200px; height: 200px;
 }
